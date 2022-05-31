@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "GqrE0RC4pG66FQJO5hgfODyZ60nAtid0P2aC+nu8VS1UlVsiRPkwLPnkxEhkh9VpEf1VvYQ0GFcFtP+a44Aj9g==",
+  "success": true,
+  "projectFilePath": "D:\\GitRepository\\CSharp\\myModuleWithSerilog\\myModule.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andy\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Andy\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Andy\\.nuget\\packages\\powershellstandard.library\\5.1.0-preview-06\\powershellstandard.library.5.1.0-preview-06.nupkg.sha512",
+    "C:\\Users\\Andy\\.nuget\\packages\\serilog\\2.11.0\\serilog.2.11.0.nupkg.sha512",
+    "C:\\Users\\Andy\\.nuget\\packages\\serilog.sinks.console\\4.0.1\\serilog.sinks.console.4.0.1.nupkg.sha512",
+    "C:\\Users\\Andy\\.nuget\\packages\\serilog.sinks.file\\5.0.0\\serilog.sinks.file.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

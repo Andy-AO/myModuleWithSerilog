@@ -1,0 +1,20 @@
+D:\MyDocs\重要文档\obsidian\default\软件开发\PowerShell\用 CSharp 创建 PowerShell 模块\myModule\bin\Debug\netstandard2.0\myModule.deps.json
+D:\MyDocs\重要文档\obsidian\default\软件开发\PowerShell\用 CSharp 创建 PowerShell 模块\myModule\bin\Debug\netstandard2.0\myModule.dll
+D:\MyDocs\重要文档\obsidian\default\软件开发\PowerShell\用 CSharp 创建 PowerShell 模块\myModule\bin\Debug\netstandard2.0\myModule.pdb
+D:\MyDocs\重要文档\obsidian\default\软件开发\PowerShell\用 CSharp 创建 PowerShell 模块\myModule\obj\Debug\netstandard2.0\myModule.csproj.AssemblyReference.cache
+D:\MyDocs\重要文档\obsidian\default\软件开发\PowerShell\用 CSharp 创建 PowerShell 模块\myModule\obj\Debug\netstandard2.0\myModule.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyDocs\重要文档\obsidian\default\软件开发\PowerShell\用 CSharp 创建 PowerShell 模块\myModule\obj\Debug\netstandard2.0\myModule.AssemblyInfoInputs.cache
+D:\MyDocs\重要文档\obsidian\default\软件开发\PowerShell\用 CSharp 创建 PowerShell 模块\myModule\obj\Debug\netstandard2.0\myModule.AssemblyInfo.cs
+D:\MyDocs\重要文档\obsidian\default\软件开发\PowerShell\用 CSharp 创建 PowerShell 模块\myModule\obj\Debug\netstandard2.0\myModule.csproj.CoreCompileInputs.cache
+D:\MyDocs\重要文档\obsidian\default\软件开发\PowerShell\用 CSharp 创建 PowerShell 模块\myModule\obj\Debug\netstandard2.0\myModule.dll
+D:\MyDocs\重要文档\obsidian\default\软件开发\PowerShell\用 CSharp 创建 PowerShell 模块\myModule\obj\Debug\netstandard2.0\myModule.pdb
+D:\GitRepository\CSharp\myModuleForSerilog\bin\Debug\netstandard2.0\myModule.deps.json
+D:\GitRepository\CSharp\myModuleForSerilog\bin\Debug\netstandard2.0\myModule.dll
+D:\GitRepository\CSharp\myModuleForSerilog\bin\Debug\netstandard2.0\myModule.pdb
+D:\GitRepository\CSharp\myModuleForSerilog\obj\Debug\netstandard2.0\myModule.csproj.AssemblyReference.cache
+D:\GitRepository\CSharp\myModuleForSerilog\obj\Debug\netstandard2.0\myModule.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitRepository\CSharp\myModuleForSerilog\obj\Debug\netstandard2.0\myModule.AssemblyInfoInputs.cache
+D:\GitRepository\CSharp\myModuleForSerilog\obj\Debug\netstandard2.0\myModule.AssemblyInfo.cs
+D:\GitRepository\CSharp\myModuleForSerilog\obj\Debug\netstandard2.0\myModule.csproj.CoreCompileInputs.cache
+D:\GitRepository\CSharp\myModuleForSerilog\obj\Debug\netstandard2.0\myModule.dll
+D:\GitRepository\CSharp\myModuleForSerilog\obj\Debug\netstandard2.0\myModule.pdb

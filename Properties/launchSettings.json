@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "myModule": {
+      "commandName": "Project",
+      "commandLineArgs": "pwsh",
+      "workingDirectory": "-NoProfile -NonInteractive -NoExit -Command Import-Module .\\PSReadLine.psd1"
+    }
+  }
+}
